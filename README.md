@@ -9,4 +9,4 @@ Naci un 26 de septiembre del año 1999 a las 5:25pm en la ciudad de guayaquil ,a
 	<li>Jugar league of legend en mi pc</li>
 	<li>Escuchar musico del genero electronica y pop</li>
   <li>Me gustar ver anime ,series y peliculas</li>
-<ul>
+</ul>
