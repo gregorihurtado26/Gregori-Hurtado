@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gregorihurtado26/gregori-hurtado/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## GREGORI HURTADO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Naci un 26 de septiembre del año 1999 a las 5:25pm en la ciudad de guayaquil ,actualmente tengo 20 años he estudiado en diferentes colegios
+8vo y 9no en el colegio experimental eloy alfaro ,10mo en el dr jose baquerizo maldonado y bachillerato en el colegio tecnico provincia del chimborazo ,me gradue como tecnico en sistemas y actualmente estoy en primer semestre de ingenieria de software en la universidad de guayaquil ,en la facultad de ciencias matematicas y fisicas.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Pasatiempos
 ```markdown
-Syntax highlighted code block
+-Ir al cine
+-Jugar baloncesto
+-Jugar league of legend en mi pc
+-Escuchar musico del genero electronica y pop
+-Me gustar ver anime ,series y peliculas
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gregorihurtado26/gregori-hurtado/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
